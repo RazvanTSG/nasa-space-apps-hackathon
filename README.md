@@ -1,30 +1,23 @@
-# 🚀 NASA Space Apps 2025 | Space Biology Search Engine
-**Ranked 2nd Place** | Rapid Prototyping Sprint
+# NASA Space Biology Search (2nd Place 🏆)
+**Event:** NASA Space Apps Challenge 2025
+**Timeframe:** 48 Hours
+**Status:** Prototype (Ranked 2nd)
 
-## 🎯 The Goal
-To help students access NASA bioscience research without getting lost in academic jargon or facing AI hallucinations.
+### ⚡ What is this?
+A search engine that translates complex NASA bioscience papers into simple terms using AI.
+Built rapidly during a 2-day hackathon to solve the "data accessibility" problem for students.
 
-## 🛠️ What We Built
-A web platform that verifies and simplifies NASA data:
-* **Explore Mode**: A gamified rocket interface to navigate scientific topics.
-* **Smart Search**: Translates complex papers into 8th-grade reading level summaries.
-* **Verified Chatbot**: An AI assistant restricted strictly to NASA datasets (no made-up facts).
+### 🎥 Demo
+**[Watch the 30s Video on YouTube](https://youtu.be/kGnqAM5WwUI)**
 
-## 📽️ Project Demo
-Watch the full presentation and walkthrough here:
-**[YouTube: NASA Space Apps Project Demo](https://www.youtube.com/watch?v=kGnqAM5WwUI)**
+### 👨‍💻 My Role: Team Lead & Architect
+* **The challenge:** Integrate NASA's API with an LLM without hallucinations.
+* **My fix:** Designed a "Strict Context" RAG system. The AI only answers from the 608 verified papers I scraped.
+* **Management:** Led a team of 5 under extreme time pressure.
 
-## 💻 Tech Stack
-* **Frontend**: React, TypeScript, Tailwind CSS
-* **Backend**: Python, Flask
-* **AI/NLP**: Google Gemini (for summarization)
-* **Data**: NASA Open Science Data Repository (608 Publications)
+### 🧠 The Stack (AI + Engineering)
+* **AI Tools:** Lovable (UI scaffolding), Google Gemini (Summarization).
+* **Engineering:** Python/Flask (Backend), React/TypeScript (Frontend).
+* **Data:** 608 Space Biology Publications (NASA OSDR).
 
-## 👤 My Role
-* **Team Leader**: Coordinated the 5-person team and managed the 48-hour timeline.
-* **System Architect**: Designed the data flow between the NASA API and our simplification engine.
-
-## 📂 Documentation
-For technical details, see the `docs/` folder:
-* [System Architecture](docs/ARCHITECTURE.md)
-* [NASA Data Strategy](docs/NASA_DATA_STRATEGY.md)
+> *Check `docs/` for the system architecture diagram.*
