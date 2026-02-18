@@ -1,6 +1,6 @@
 # NASA Space Biology Search (2nd Place 🏆)  
 **Event:** NASA Space Apps Challenge 2025  
-**Challenge:**Space Biology Search Engine  
+**Challenge:** Space Biology Search Engine  
 **Timeframe:** 48 Hours  
 **Status:** Prototype (Ranked 2nd)  
 
