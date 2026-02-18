@@ -1,7 +1,8 @@
-# NASA Space Biology Search (2nd Place 🏆)
-**Event:** NASA Space Apps Challenge 2025
-**Timeframe:** 48 Hours
-**Status:** Prototype (Ranked 2nd)
+# NASA Space Biology Search (2nd Place 🏆)  
+**Event:** NASA Space Apps Challenge 2025  
+**Challenge:**Space Biology Search Engine  
+**Timeframe:** 48 Hours  
+**Status:** Prototype (Ranked 2nd)  
 
 ### ⚡ What is this?
 A search engine that translates complex NASA bioscience papers into simple terms using AI.
